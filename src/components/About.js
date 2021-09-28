@@ -13,7 +13,7 @@ function About() {
                 </h2>
                 <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div className="accordion-body">
-                TextMagic gives you a way to analyze your text quickly and efficiently. Be it word count, character count or
+                TextMagic gives you a way to analyze your text quickly and efficiently.
                 </div>
                 </div>
             </div>
